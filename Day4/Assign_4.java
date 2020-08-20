@@ -17,7 +17,7 @@ public class Assign_4 {
 			  countodd++; 
 			num=num/10;
 		}
-      	//System.out.println("Invalid number");
+
 		System.out.print("Even digits : "+counteven +  " ; Odd digits: "+countodd);	
 	}
 
